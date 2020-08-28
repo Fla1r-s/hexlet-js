@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "task ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Fla1r-s/hexlet-js.git"
+  },
+  "author": "Fla1r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fla1r-s/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Fla1r-s/hexlet-js#readme"
+}
